@@ -1,5 +1,5 @@
 {
-    "version": "v2.6.2",
-    "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v2.6.2/Make-Auto2.0Pro.zip",
+    "version": "v2.6.3",
+    "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v2.6.3/Make-Auto2.0Pro.zip",
     "notes": "1. 修复了滚动步骤找不到目标的问题\n2. 优化了遍历逻辑\n3. 优化了文件大小"
 }
