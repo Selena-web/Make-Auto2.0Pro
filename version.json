@@ -1,5 +1,5 @@
 {
-    "version": "v2.6.3",
-    "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v2.6.3/Make-Auto2.0Pro.zip",
-    "notes": "1. 修复了滚动步骤找不到目标的问题\n2. 优化了遍历逻辑\n3. 优化了文件大小"
+    "version": "v2.9.3",
+    "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v2.9.3/Make-Auto2.0Pro.zip",
+    "notes": "1. 新增消息推送功能，第三方WxPusher推送平台\n2. 优化了遍历逻辑\n3. 优化了文件大小"
 }
