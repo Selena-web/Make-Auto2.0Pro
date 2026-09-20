@@ -1,5 +1,5 @@
 {
-    "version": "v2.9.3",
-    "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v2.9.3/Make-Auto2.0Pro.zip",
-    "notes": "1. 新增消息推送功能，第三方WxPusher推送平台\n2. 优化了遍历逻辑\n3. 优化了文件大小"
+    "version": "v2.9.5",
+    "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v2.9.5/Make-Auto2.0Pro.zip",
+    "notes": "1. 新增消息推送功能\n2. 新增自动检测新版本功能\n3. 新增用户意见反馈功能\n4. 新增自动保存上一次配置功能\n5. 修复遍历逻辑bug"
 }
