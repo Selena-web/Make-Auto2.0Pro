@@ -1,6 +1,6 @@
 {
-    "version": "v3.1.0SE2",
-    "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v3.1.0SE2/Make-Auto2.0Pro.zip",
-    "build": 31001,
-    "notes": "1.新增点击逻辑判断\n2.修复onnx依赖包缺失问题"
+  "version": "v3.1.0SE2",
+  "build": 31001,
+  "url": "https://github.com/Selena-web/Make-Auto2.0Pro/releases/download/v3.1.0SE2/Make-Auto2.0Pro.zip",
+  "notes": "1. 新增点击逻辑判断\n2. 修复 onnx 依赖包缺失问题\n3. 优化版本更新检测机制"
 }
